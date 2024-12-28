@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="917fb173-042b-4789-b3c3-cd3b247ffd75" name="Changes" comment="up">
+      <change afterPath="$PROJECT_DIR$/bin/game_properties.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WorldOfTanksDemake.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WorldOfTanksDemake.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_12_2024_16_57_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_12_2024_16_57__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/audio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main_menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main_menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ui/button.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ui/button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ofont.ru_Unutterable.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/resources/main_font.ttf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;teyken10&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/teyken10/Ray-Casting-Horror.git&quot;,
+    &quot;accountId&quot;: &quot;c8258fba-5815-4756-8e5d-69136a4aefe1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pi0tpXRdoi7TB6DLc7ogAMPZdp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.player.executor&quot;: &quot;Run&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Shell Script.main.py.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Ray-Casting-Horror/main.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ray-Casting-Horror\resources" />
+      <recent name="D:\Ray-Casting-Horror\resourses" />
+      <recent name="D:\Ray-Casting-Horror" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ray-Casting-Horror\resources" />
+      <recent name="D:\Ray-Casting-Horror\bin" />
+      <recent name="D:\Ray-Casting-Horror" />
+      <recent name="C:\Users\plato\OneDrive\Документы\GitHub\WorldOfTanksDemake\data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="917fb173-042b-4789-b3c3-cd3b247ffd75" name="Changes" comment="" />
+      <created>1733233805807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733233805807</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hello">
+      <option name="closed" value="true" />
+      <created>1733234233591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733234233591</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add requirements.txt">
+      <option name="closed" value="true" />
+      <created>1733234409944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733234409944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add requirements.txt">
+      <option name="closed" value="true" />
+      <created>1733235130815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733235130815</updated>
+    </task>
+    <task id="LOCAL-00004" summary="up">
+      <option name="closed" value="true" />
+      <created>1733235411161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733235411161</updated>
+    </task>
+    <task id="LOCAL-00005" summary="up">
+      <option name="closed" value="true" />
+      <created>1733319134660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733319134660</updated>
+    </task>
+    <task id="LOCAL-00006" summary="up">
+      <option name="closed" value="true" />
+      <created>1734475446958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734475446958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello" />
+    <MESSAGE value="add requirements.txt" />
+    <MESSAGE value="up" />
+    <option name="LAST_COMMIT_MESSAGE" value="up" />
+  </component>
+</project>
