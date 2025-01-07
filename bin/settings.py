@@ -21,7 +21,7 @@ SCALE = WIDTH // NUM_RAYS
 # настройки игрока
 player_pos = (HALF_WIDTH, HALF_HEIGHT)
 player_angle = 0
-player_speed = 3
+player_speed = 8
 rotate_speed = 0.02
 
 # цвета
